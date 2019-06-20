@@ -64,7 +64,7 @@ ____ minutes
 ## Materials Needed
 
 *   WordPress installation
-*   [Twenty Sixteen](https://wordpress.org/themes/twentysixteen/) theme
+*   [Twenty Nineteen](https://wordpress.org/themes/twentynineteen/) theme
 *   [Indie flower](https://www.google.com/fonts/specimen/Indie+Flower) font
 *   [Meadowbrook](http://www.dafont.com/meadowbrook.font) font
 *   [Squirrels @font-face generator](http://www.fontsquirrel.com/fontface/generator)
